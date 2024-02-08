@@ -1,0 +1,19 @@
+.ListItem {
+  display: flex;
+  margin: 3px;
+  padding: 3px;
+  justify-content: left;
+  background-color: rgb(175, 240, 149);
+}
+
+.Text {
+  border-style: none none none solid;
+  border-color: green;
+  border-width: 4px;
+  background-color: rgb(175, 240, 149);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.Button {
+  margin-left: auto;
+}
